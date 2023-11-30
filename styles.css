@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #hangman-display {
+    font-family: monospace;
+    white-space: pre;
+  }
+  
+  #word-display {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  #guess-input {
+    margin-bottom: 20px;
+  }
+  
+  #message {
+    font-weight: bold;
+    color: red;
+  }
+  
