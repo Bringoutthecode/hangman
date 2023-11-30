@@ -1,4 +1,4 @@
-const words = ["elephant", "rainbows", "hospital", "necklace", "mountain", "universe", "tricycle", "aquarium", "coloful", "nanamin"];
+const words = ["elephant", "rainbows", "hospital", "necklace", "mountain", "universe", "tricycle", "aquarium", "colorful"];
 let currentWord = "";
 let guessedWord = [];
 let incorrectGuesses = 0;
